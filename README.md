@@ -1,4 +1,4 @@
-# coffee_masters
+#  Restaurant Menu App
 
 A new Flutter project.
 
