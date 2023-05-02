@@ -33,6 +33,7 @@
 .pub-cache/
 .pub/
 /build/
+/images/
 
 # Web related
 
