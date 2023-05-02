@@ -17,7 +17,7 @@
 
 ## Demo
 
-The PWA app is being hosted on firebase at here[link](https://asarpalone-8c2e4.web.app/#/)
+The PWA app is being hosted on firebase at here [link](https://asarpalone-8c2e4.web.app/#/)
 
 
 
