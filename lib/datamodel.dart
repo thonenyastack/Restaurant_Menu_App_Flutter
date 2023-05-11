@@ -7,7 +7,6 @@ class Product {
   double price;
   String image;
   String get imageUrl =>
-      // "https://firtman.github.io/coffeemasters/api/images/$image";
       "https://thonenyastack.github.io/imagesrepo/$image";
 
   // Constructor
